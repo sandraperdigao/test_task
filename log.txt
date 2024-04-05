@@ -1,0 +1,24 @@
+[2024-04-05 16:21:11] Start
+[2024-04-05 16:21:27] Config file CREATED
+[2024-04-05 16:21:32] folder FOUND
+[2024-04-05 16:21:32] replica FOUND
+[2024-04-05 16:21:32] 20170428_083352000_iOS.jpg is copied
+[2024-04-05 16:21:32] 20190811_160600000_iOS.jpg is copied
+[2024-04-05 16:21:32] df.txt is copied
+[2024-04-05 16:21:32] vinhedo_piemonte_imagem_2.jpg is copied
+[2024-04-05 16:21:32] sync: 0; update: 4; delete: 0
+[2024-04-05 16:22:02] folder FOUND
+[2024-04-05 16:22:02] replica FOUND
+[2024-04-05 16:22:02] 20170428_083352000_iOS.jpg is up to date
+[2024-04-05 16:22:02] 20190811_160600000_iOS.jpg is up to date
+[2024-04-05 16:22:02] df.txt is up to date
+[2024-04-05 16:22:02] vinhedo_piemonte_imagem_2.jpg is up to date
+[2024-04-05 16:22:02] sync: 4; update: 0; delete: 0
+[2024-04-05 16:23:31] Start
+[2024-04-05 16:23:36] folder FOUND
+[2024-04-05 16:23:36] replica FOUND
+[2024-04-05 16:23:36] 20170428_083352000_iOS.jpg is up to date
+[2024-04-05 16:23:36] 20190811_160600000_iOS.jpg is up to date
+[2024-04-05 16:23:36] df.txt is up to date
+[2024-04-05 16:23:36] vinhedo_piemonte_imagem_2.jpg is up to date
+[2024-04-05 16:23:36] sync: 4; update: 0; delete: 0
